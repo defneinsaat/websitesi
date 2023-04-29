@@ -74,7 +74,10 @@ nav {
 
 .slider-img-container {
     position: relative;
+    height: 100vh;
 }
+
+
 
 .slider-img-container::before {
     content: "";
